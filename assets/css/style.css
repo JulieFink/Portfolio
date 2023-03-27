@@ -1,0 +1,81 @@
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #6c5b7b;
+    color: white;
+  }
+  
+  .navbar-brand {
+    filter: invert(10%);  
+    }
+  
+  .nav-link {
+    color: white;
+    font-weight: bold;
+  }
+
+  .navbar-toggler {
+    color:#78737c;
+  }
+  
+
+
+    /* Estilos para la sección "Sobre mí" */
+    #sobre-mi {
+      background-color: #dcd6f7;
+      padding: 50px;
+    }
+    
+    #sobre-mi img {
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+      margin-bottom: 20px;
+    }
+    
+    #sobre-mi h2 {
+      color: #6c5b7b;
+      margin-bottom: 20px;
+    }
+    
+    #sobre-mi .btn {
+      background-color: #6c5b7b;
+      color: white;
+      font-weight: bold;
+      margin-right: 10px;
+    }
+    
+    #sobre-mi .btn:hover {
+      background-color: white;
+      color: #6c5b7b;
+    }
+    
+    
+    
+ 
+   /* Estilos secciones */
+ 
+   #section-light {
+     background-color: white;
+     padding: 50px;
+   }
+ 
+   #section-dark {
+     background-color: #6c5b7b;
+     padding: 20px;
+     color: white;
+   }
+    
+    .section-light h2 {
+      color: #6c5b7b;
+      margin-bottom: 20px;
+    }
+       
+    .section-dark h2 {
+      margin-bottom: 20px;
+      color: white;
+    }
+  
+    .section-dark h4 {
+      color: black;
+    }
+  
